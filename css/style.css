@@ -1,0 +1,20 @@
+#top{
+    background-color: darkslategrey;
+    font-size: large;
+}
+
+#films{
+    /* background-image: url(  //img.freepik.com/free-vector/vector-golden-illuminated-cinema-signboard-front-view-dark-background_1284-47324.jpg?t=st=1742761438~exp=1742765038~hmac=dfc518b12c185cc18aee8eb52d335e3e1977779733b0a2f5a898414201e3742e&w=1380); */
+    
+    background-color: aquamarine;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 0%;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+   
+   
+   
+   
+}

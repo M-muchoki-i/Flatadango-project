@@ -1,67 +1,74 @@
 {
-    "items":[
-      {
-        "id": "1",
-        "title": "The 100",
-        "runtime": "108",
-        "capacity": 30,
-        "showtime": "04:00PM",
-        "tickets_sold": "10",
-        "description": "The 100 follows post-apocalyptic survivors from a space habitat, the Ark, who return to Earth nearly a century after a devastating nuclear apocalypse. The first people sent to Earth are a group of juvenile delinquents who encounter descendants of survivors of the nuclear disaster on the ground."
-      },
-      {
-        "id": "2",
-        "title": "The Ark",
-        "runtime": "108",
-        "capacity": 30,
-        "showtime": "05:00PM",
-        "tickets_sold": "15",
-        "description": "A hundred years in the future, a spacecraft known as Ark One is shuttling a complement of would-be colonists away from a devastated Earth to a new home, Proxima b. The ship suffers a catastrophic event that kills almost all of the technical crew and all of the ship's senior officers. The survivors must work to reorganize themselves to maintain the ship and stay on course to reach their destination."
-      },
-      {
-        "id": "3",
-        "title": "Now you see me",
-        "runtime": "106",
-        "capacity": 30,
-        "showtime": "05:30PM",
-        "tickets_sold": "10",
-        "description": "In New York City, the Horsemen hijack the phone's launch but are interrupted by a mysterious figure who reveals to the public that Jack faked his death and that Dylan is working with the Horsemen. Dylan eludes the FBI as the Horsemen escape down a construction chute only to suddenly find themselves in Macau"
-      },
-      {
-        "id": "4",
-        "title": "Decsendants",
-        "runtime": "106",
-        "capacity": 20,
-        "showtime": "05:30PM",
-        "tickets_sold": "10",
-        "description": "The film follows these teenagers adjusting to life outside their island prison, while on a mission to steal the Fairy Godmother's wand and free their parents from captivity."
-      },
-      {
-        "id": "5",
-        "title": "Decsendants",
-        "runtime": "60",
-        "capacity": 20,
-        "showtime": "02:30PM",
-        "tickets_sold": "5",
-        "description": " The film is set in a dystopian future in which population control is enforced through a school aptitude test; those who fail it are executed."
-      },
-      {
-        "id": "6",
-        "title": "high potential",
-        "runtime": "60",
-        "capacity": 20,
-        "showtime": "03:30PM",
-        "tickets_sold": "15",
-        "description": "The series stars Kaitlin Olson as Morgan Gillory, an intellectually gifted cleaning woman who becomes a police consultant. Also starring are Daniel Sunjata as Morgan's partner Adam Karadec and Judy Reyes as Selena Soto, the head of their department."
-      },
-      {
-        "id": "7",
-        "title": "found",
-        "runtime": "108",
-        "capacity": 25,
-        "showtime": "01:30PM",
-        "tickets_sold": "12",
-        "description": "The series focuses on public relations specialist and crisis manager Gabi Mosely and her team of associates who work to find missing people who have been ignored or forgotten by law enforcement and the mainstream media."
-      }
-    ]
+  "films": [
+    {
+      "id": "1",
+      "title": "The 100",
+      "runtime": "108",
+      "capacity": 10,
+      "showtime": "05:00PM",
+      "tickets_sold": "15",
+      "description": "The 100 follows post-apocalyptic survivors from a space habitat, the Ark, who return to Earth nearly a century after a devastating nuclear apocalypse. The first people sent to Earth are a group of juvenile delinquents who encounter descendants of survivors of the nuclear disaster on the ground.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hoVdHQ8usNob7I2AwU4Tm_S8O5T64_t3fQ&s"
+    },
+    {
+      "id": "2",
+      "title": "The Ark",
+      "runtime": "108",
+      "capacity": 30,
+      "showtime": "05:00PM",
+      "tickets_sold": "15",
+      "description": "A hundred years in the future, a spacecraft known as Ark One is shuttling a complement of would-be colonists away from a devastated Earth to a new home, Proxima b. The ship suffers a catastrophic event that kills almost all of the technical crew and all of the ship's senior officers. The survivors must work to reorganize themselves to maintain the ship and stay on course to reach their destination.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrUIVpKm9Xurq5KW-F1WGMja6l4PCn6n7F3Q&s"
+    },
+    {
+      "id": "3",
+      "title": "Now you see me",
+      "runtime": "106",
+      "capacity": 30,
+      "showtime": "05:30PM",
+      "tickets_sold": "10",
+      "description": "In New York City, the Horsemen hijack the phone's launch but are interrupted by a mysterious figure who reveals to the public that Jack faked his death and that Dylan is working with the Horsemen. Dylan eludes the FBI as the Horsemen escape down a construction chute only to suddenly find themselves in Macau",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSM5gi5tBxaTDwrqTVncBNX6wcMaG1jJI8g&s"
+    },
+    {
+      "id": "4",
+      "title": "Decsendants",
+      "runtime": "106",
+      "capacity": 20,
+      "showtime": "05:30PM",
+      "tickets_sold": "10",
+      "description": "The film follows these teenagers adjusting to life outside their island prison, while on a mission to steal the Fairy Godmother's wand and free their parents from captivity.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcL2iHm9P8DZOuwKMs2L8T_mQP9WTXZWA5Q&s"
+    },
+    {
+      "id": "5",
+      "title": "The Thinning",
+      "runtime": "60",
+      "capacity": 20,
+      "showtime": "02:30PM",
+      "tickets_sold": "5",
+      "description": " The film is set in a dystopian future in which population control is enforced through a school aptitude test; those who fail it are executed.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-WwaAPpfzyCmN3xHkad0kkKB3hJAy2aYDw&s"
+    },
+    {
+      "id": "6",
+      "title": "high potential",
+      "runtime": "60",
+      "capacity": 20,
+      "showtime": "03:30PM",
+      "tickets_sold": "15",
+      "description": "The series stars Kaitlin Olson as Morgan Gillory, an intellectually gifted cleaning woman who becomes a police consultant. Also starring are Daniel Sunjata as Morgan's partner Adam Karadec and Judy Reyes as Selena Soto, the head of their department.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1xwbXyxTefVnHt44z5UgV1TRvt7TXe_jWg&s"
+    },
+    {
+      "id": "7",
+      "title": "found",
+      "runtime": "108",
+      "capacity": 25,
+      "showtime": "01:30PM",
+      "tickets_sold": "12",
+      "description": "The series focuses on public relations specialist and crisis manager Gabi Mosely and her team of associates who work to find missing people who have been ignored or forgotten by law enforcement and the mainstream media.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4nGlMoYsXMNuM91VC-jMVslHAEy2jvkW_g&s"
+    }
+  ]
 }
